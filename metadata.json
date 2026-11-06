@@ -1,0 +1,6 @@
+{
+  "name": "FederatedSim Config Studio",
+  "description": "Distributed and federated systems simulation configuration interface with hierarchical group topology, resource catalog filtering, role-based orchestration, and trust modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
